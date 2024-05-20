@@ -2,10 +2,9 @@
 
 ## Welcome to my personal portfolio repository! 
 
-<p>This project showcases my journey, skills, and accomplishments in the field of software development. Built using <b>React.js</b>, this portfolio includes my introduction, academic background, projects, internships, achievements, resume, and links to my profiles on other platforms.</p>
+<p>This project showcases my journey, skills, and accomplishments in the field of software development. Built using <b>React.js</b>, this portfolio includes </p>
 
-Introduction<br>
-Hello! My name is <b>Khushi Pandya</b>, and I am a student. This portfolio highlights my journey and experiences in the tech world, from my academic endeavors to the projects and internships I've undertaken.
+<li>My Introduction
 
 <li>Academic Background
 
